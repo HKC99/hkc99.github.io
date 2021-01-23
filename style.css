@@ -85,7 +85,6 @@ li
     background:url(./img/red.jpg) red;
     background-size: cover;
     background-position: center;
-    background-repeat: no-repeat;
     align-items:flex-start;
     justify-content:center;
 }
