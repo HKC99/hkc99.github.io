@@ -82,7 +82,7 @@ li
     display: flex;
     position: relative;
     height:100vh;
-    background:url(/img/red.jpg) red;
+    background:url(/red.jpg) red;
     background-size: cover;
     align-items:flex-start;
     justify-content:center;
